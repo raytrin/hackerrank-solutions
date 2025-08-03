@@ -11,7 +11,7 @@ O objetivo é praticar **Python**, **SQL** e **Problem Solving**.
 ---
 
 ## 📂 Estrutura do Repositório
-
+```
 hackerrank-solutions/
 │
 ├── python/
@@ -23,8 +23,8 @@ hackerrank-solutions/
 │ ├── medium/
 │
 └── sql/
-├── basic_select/
-
+│ ├── basic_select/
+```
 ---
 
 ## 🏅 Badges HackerRank
