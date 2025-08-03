@@ -23,7 +23,7 @@ hackerrank-solutions/
 │ ├── medium/
 │
 └── sql/
-│ ├── basic_select/
+├── basic_select/
 
 ---
 
