@@ -15,23 +15,20 @@ O objetivo é praticar **Python**, **SQL** e **Problem Solving**.
 hackerrank-solutions/
 │
 ├── python/
-│ ├── easy/
-│ ├── medium/
+│   ├── easy/
+│   └── medium/
 │
 ├── problem-solving/
-│ ├── easy/
-│ ├── medium/
+│   ├── easy/
+│   └── medium/
 │
 └── sql/
-│ ├── basic_select/
+    └── basic_select/
 ```
----
 
 ## 🏅 Badges HackerRank
-[![Python](https://img.shields.io/badge/Python-5⭐-2EC866?logo=python&logoColor=white)](https://www.hackerrank.com/rayytrindade)
-[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2⭐-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/rayytrindade)
-[![SQL](https://img.shields.io/badge/SQL-1⭐-2EC866?logo=postgresql&logoColor=white)](https://www.hackerrank.com/rayytrindade)
----
+
+🏆 HackerRank: Python 5⭐ | Problem Solving 2⭐ | SQL 1⭐
 
 ## 📌 Exemplo de Desafio (Python - medium)
 
