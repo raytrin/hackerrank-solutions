@@ -28,7 +28,7 @@ hackerrank-solutions/
 
 ## 🏅 Badges HackerRank
 
-🏆 HackerRank: Python 5⭐ | Problem Solving 2⭐ | SQL 1⭐
+🏆 HackerRank: Python 5⭐ | Problem Solving 3⭐ | SQL 1⭐
 
 ## 📌 Exemplo de Desafio (Python - medium)
 
