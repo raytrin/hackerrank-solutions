@@ -1,4 +1,4 @@
--- Problem: Weather Observation Station
+-- Problem: Weather Observation Station 8
 -- Link: https://www.hackerrank.com/challenges/weather-observation-station-8/problem
 -- Descrição: Seleciona os nomes das cidades que possuem vogais tanto no início
 -- quanto no fim.
