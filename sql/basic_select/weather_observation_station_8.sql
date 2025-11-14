@@ -7,4 +7,4 @@ SELECT DISTINCT city
 FROM STATION
 WHERE city REGEXP '^[aeiou].*[aeiou]$'; -- ^: início da str
                                         -- .*: representa 0 ou mais char, exceto quebra de linha
-                                        -- $: fim da str
+                                        -- $:fim da str
